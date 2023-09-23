@@ -17,4 +17,4 @@ or Run by docker compose
 
 test
 
-Day 24: Jenkins CI/CD Project
+Day 24: Jenkins CI/CD Projects
